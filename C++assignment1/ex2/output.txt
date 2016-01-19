@@ -1,0 +1,12 @@
+Outputting results from searching hamlet.txt for words from testwords.txt
+
+There were 33732 words in the text. 
+
+The word: affair occurs 4 times.
+The word: dead occurs 33 times.
+The word: hate occurs 1 times.
+The word: heaven occurs 43 times.
+The word: heart occurs 29 times.
+The word: love occurs 67 times.
+The word: music occurs 8 times.
+The word: sorrow occurs 6 times.
